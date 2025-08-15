@@ -1,4 +1,4 @@
-👋 Hey, I'm Rasak — **a Data Analyst with a Bachelor's and Master's degree in Political Science. I provide meaningful insights tailored to your needs.**
+**👋 Hey, I'm Rasak — a Data Analyst with a Bachelor's and Master's in Political Science. I turn complex data into insights you can act on.**
 
 I exclusively focus on end-to-end data workflows —from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
 
