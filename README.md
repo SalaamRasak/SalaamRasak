@@ -1,6 +1,6 @@
 **👋 Hey, I'm Rasak — a Data Analyst with a Bachelor's and Master's in Political Science. I turn complex data into insights you can act on.**
 
-I exclusively focus on end-to-end data workflows —from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
+I exclusively focus on end-to-end data workflows from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
 
 I bring proficiency in **Python, R, and SQL** alongside hands-on experience with **Power BI, Tableau**, and **Excel**. I design scalable pipelines that automate data ingestion, wrangling, and dashboarding.
 
@@ -13,7 +13,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
 
-**Tools**: Git, VS Code, Jypter Notebooks, Google Sheets, Notion, Looker Studio.
+**Tools**: Git, Google Collab, Jypter Notebooks, Google Sheets, Notion, Looker Studio.
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
