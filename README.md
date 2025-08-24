@@ -25,7 +25,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
 
 ## 🚀 MORE
-   * 🔭 I'm actively learning **data science skills, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
+   * 🔭 I'm actively consolidating my skills in **data science, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
    * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
