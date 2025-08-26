@@ -1,4 +1,4 @@
-**👋 Hey, I'm Rasak — a Data Analyst driving impact by transforming complex data into actionable insights that help top organizations and small-to-medium enterprises boost efficiency, strengthen decision-making, and achieve sustainable growth. Backed by a Bachelor's and a Master's degree in Political Science (with distinction), I combine analytical rigor with strategic perspective to deliver meaningful results.**
+**👋 Hi, My name is Rasak, a Data Analyst driving impact by transforming complex data into actionable insights that help top organizations and small-to-medium enterprises boost efficiency, strengthen decision-making, and achieve sustainable growth. Backed by a Bachelor's and a Master's degree in Political Science (with distinction), I combine analytical rigor with strategic perspective to deliver meaningful results.**
 
 I exclusively focus on end-to-end data workflows from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
 
