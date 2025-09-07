@@ -13,7 +13,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
 
-**Tools**: Git, Google Collab, Jypter Notebooks, Google Sheets, Looker Studio.
+**Tools**: Git, Google Collab, Jypter Notebooks, Google Sheets, and Looker Studio.
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
