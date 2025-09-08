@@ -50,19 +50,37 @@ This academic rigor complements my technical expertise, which ensures that my so
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=white)
+!![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
   
 ### **Visualization** 
-Tableau, Power BI, Matplotlib, Seaborn, Looker Studio  
-**AI & Automation** → APIs, Web Scraping, ETL Pipelines (Airflow, cron jobs), RPA, NLP basics  
-**Workflow & Collaboration** → Git, Jupyter, Google Colab, Excel (PivotTables & VBA)  
+![Tableau](![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white))
+![Microsoft Power BI](![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black))
+![Looker Studio](![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white))
+![Matplotlib](![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white))
+![Seaborn](![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white))  
+
+### **AI & Automation** 
+![Make.com](![Make](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white))
+![n8n](![n8n](https://img.shields.io/badge/n8n-0DAD8D?style=for-the-badge&logo=n8n&logoColor=white))
+![Zapier](![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white))
+![APIs](![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+)
+![Web Scraping](![Web Scraping](https://img.shields.io/badge/Web%20Scraping-306998?style=for-the-badge&logo=python&logoColor=white))
+![ETL Pipelines](![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white))
+[Airflow](![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white))
+[NLP](![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white))
+
+### **Workflow & Collaboration** 
+![Git](![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white))
+![Jupyter Notebook](![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white))
+![Google Colab](![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white))
+![PivotTables](![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)) 
+![VBA](![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white))
 
 ---
-
-## 📬 Let’s Connect  
-I’m open to collaborations on **data analysis, AI automation, and machine learning projects**.  
-- 💼 [LinkedIn](#)  
-- 📂 [Portfolio](#)  
-- 📰 [Medium](#)
-- 
+- ### 📫 Get in Touch
+Let's discuss how we can collaborate on exciting projects or simply have a chat about the latest in tech. Feel free to reach out to me through any of the following:
+- **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
+-**[Call/WhatsApp]**(+2348163157843)
 Let’s build something impactful together 🚀  
 ---
