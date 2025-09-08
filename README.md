@@ -1,7 +1,10 @@
 # 👋 Hi! Welcome to Salaam's Hub.
-
-I’m so glad to have you. Coming here shows that we most likely have a great deal of things in common. I am a **Certified and hands-on Data Analyst** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. I specialize in blending **data analytics** with **AI-powered automation** to help organizations scale efficiency, improve decision-making, and unlock growth opportunities. My approach isn’t just about dashboards, but it includes building **end-to-end automated insights pipelines** that keep businesses ahead of the curve.  
-
+### About Me
+Coming here shows that we most likely have a great deal of things in common. I am a **Certified and hands-on Data Analyst** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. I specialize in blending **data analytics** with **AI-powered automation** to help organizations scale efficiency, improve decision-making, and unlock growth opportunities. My approach isn’t just about dashboards, but it includes building **end-to-end automated insights pipelines** that keep businesses ahead of the curve.  
+- 🌍 **Location:** UTC+1
+- 📧 **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
+- 📞 **Phone:** +234-816-315-7843
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rasak-olanrewaju-salaam-501b69120/](https://www.linkedin.com/in/rasak-olanrewaju-salaam-501b69120/)
 ---
 
 ## 📊 Data Analysis & AI Automation Prowess  
@@ -39,9 +42,17 @@ This academic rigor complements my technical expertise, which ensures that my so
 - Tableau Analyst Certification  
 
 ---
-## 🛠️ Tech Stack & Tools  
-**Data Collection & Processing** → Python (Pandas, NumPy), R (dplyr, tidyr), SQL, Spark  
-**Visualization** → Tableau, Power BI, Matplotlib, Seaborn, Looker Studio  
+### 🛠️ Tech Stack  
+#### **Data Collection & Processing** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=white)
+  
+### **Visualization** 
+Tableau, Power BI, Matplotlib, Seaborn, Looker Studio  
 **AI & Automation** → APIs, Web Scraping, ETL Pipelines (Airflow, cron jobs), RPA, NLP basics  
 **Workflow & Collaboration** → Git, Jupyter, Google Colab, Excel (PivotTables & VBA)  
 
