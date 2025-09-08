@@ -14,10 +14,10 @@ By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks
 ---
 ## 🚀 Projects & Portfolio  
 I’ve built projects ranging from:  
-- (**Automated data pipelines**)[https://github.com/SalaamRasak/Custom_Food_Ordering]   
+- (Automated data pipelines)[https://github.com/SalaamRasak/Custom_Food_Ordering]   
 - **AI-powered workflow automation**
-- (**Real-time dashboards**)[https://github.com/SalaamRasak/Sales_TV_Data]
-- (**Market Analysis Using Python and Stata**)[https://github.com/SalaamRasak/marketAnalysis]
+- (Real-time dashboards)[https://github.com/SalaamRasak/Sales_TV_Data]
+- (Market Analysis)[https://github.com/SalaamRasak/marketAnalysis] using Python and Stata.
 - **And Many More...**
 
 ---
@@ -26,16 +26,16 @@ I’ve built projects ranging from:
 Backed by a **Bachelor’s and Master’s degree in Political Science (with distinction)**, my work bridges social science insights with computational analytics.  
 - ✍️ I’ve authored research on **governance, elections, and decision-making**  
 - 🔎Published in reputable journals and indexed on [Google Scholar](https://scholar.google.com/citations?user=dqkKM6wAAAAJ&hl=en)
-- - 📰 Published on [Medium](https://medium.com/@rasaksalaamo)  
+- Published on [Medium](https://medium.com/@rasaksalaamo)  
 
 This academic rigor complements my technical expertise, which ensures that my solutions are grounded in both **theory and practice**.  
 
 ---
 ## 🎓 Certifications  
 - Google Data Analytics Professional Certificate
-- (**Data Analytics Essentials**)[https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89]  
-- Make.com Advanced training in (**Machine Learning pipelines & AI Automation**)[https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe]  
-- (**Fundamentals of Artificial Intelligence (AI)**)[https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7]
+- (Data Analytics Essentials)[https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89]  
+- Make.com Advanced training in (Machine Learning pipelines & AI Automation)[https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe]  
+- Fundamentals of (Artificial Intelligence (AI))[https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7]
 - Tableau Analyst Certification  
 
 ---
