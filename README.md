@@ -14,10 +14,10 @@ By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks
 ---
 ## 🚀 Projects & Portfolio  
 I’ve built projects ranging from:  
-- (Automated data pipelines)[https://github.com/SalaamRasak/Custom_Food_Ordering]   
+- [Automated data pipelines](https://github.com/SalaamRasak/Custom_Food_Ordering)   
 - **AI-powered workflow automation**
-- (Real-time dashboards)[https://github.com/SalaamRasak/Sales_TV_Data]
-- (Market Analysis)[https://github.com/SalaamRasak/marketAnalysis] using Python and Stata.
+- [Real-time dashboards](https://github.com/SalaamRasak/Sales_TV_Data)
+- [Market Analysis](https://github.com/SalaamRasak/marketAnalysis) using Python and Stata.
 - **And Many More...**
 
 ---
@@ -33,9 +33,9 @@ This academic rigor complements my technical expertise, which ensures that my so
 ---
 ## 🎓 Certifications  
 - Google Data Analytics Professional Certificate
-- (Data Analytics Essentials)[https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89]  
-- Make.com Advanced training in (Machine Learning pipelines & AI Automation)[https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe]  
-- Fundamentals of (Artificial Intelligence (AI))[https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7]
+- [Data Analytics Essentials](https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89)  
+- Make.com Advanced training in [Machine Learning pipelines & AI Automation](https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe)  
+- Fundamentals of [Artificial Intelligence (AI)](https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7)
 - Tableau Analyst Certification  
 
 ---
