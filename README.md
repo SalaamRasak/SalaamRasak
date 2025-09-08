@@ -44,13 +44,13 @@ This academic rigor complements my technical expertise, which ensures that my so
 ---
 ### 🛠️ Tech Stack  
 #### **Data Collection & Processing** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=white)
-!![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
   
 ### **Visualization** 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -60,22 +60,21 @@ This academic rigor complements my technical expertise, which ensures that my so
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
 
 ### **AI & Automation** 
-![Make.com](![Make](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white))
-![n8n](![n8n](https://img.shields.io/badge/n8n-0DAD8D?style=for-the-badge&logo=n8n&logoColor=white))
-![Zapier](![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white))
-![APIs](![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-)
-![Web Scraping](![Web Scraping](https://img.shields.io/badge/Web%20Scraping-306998?style=for-the-badge&logo=python&logoColor=white))
-![ETL Pipelines](![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white))
-[Airflow](![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white))
-[NLP](![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white))
+![Make.com](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0DAD8D?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-306998?style=for-the-badge&logo=python&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### **Workflow & Collaboration** 
-![Git](![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white))
-![Jupyter Notebook](![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white))
-![Google Colab](![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white))
-![PivotTables](![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)) 
-![VBA](![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white))
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 - ### 📫 Get in Touch
