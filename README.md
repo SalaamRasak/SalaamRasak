@@ -53,11 +53,11 @@ This academic rigor complements my technical expertise, which ensures that my so
 !![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
   
 ### **Visualization** 
-![Tableau](![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white))
-![Microsoft Power BI](![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black))
-![Looker Studio](![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white))
-![Matplotlib](![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white))
-![Seaborn](![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white))  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
 
 ### **AI & Automation** 
 ![Make.com](![Make](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white))
