@@ -1,6 +1,9 @@
 # 👋 Hi! Welcome to Salaam's Hub.
 ### About Me
-Coming here shows that we most likely have a great deal of things in common. I am a **Certified and hands-on Data Analyst** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. I specialize in blending **data analytics** with **AI-powered automation** to help organizations scale efficiency, improve decision-making, and unlock growth opportunities. My approach isn’t just about dashboards, but it includes building **end-to-end automated insights pipelines** that keep businesses ahead of the curve.  
+Glad you're here — it's a sign that **Salaam Solutions** will be useful for your business and personal needs. I am a **Certified and hands-on Data Analyst** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. I specialize in blending **data analytics** with **AI-powered automation** to help organizations scale efficiency, improve decision-making, and unlock growth opportunities. 
+
+My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that transform businesses. 
+
 - 🌍 **Location:** UTC+1
 - 📧 **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
 - 📞 **Phone:** +234-816-315-7843
