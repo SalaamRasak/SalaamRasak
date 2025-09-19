@@ -18,7 +18,7 @@ By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks
 ---
 ## 🚀 Projects & Portfolio  
 I’ve built projects ranging from:  
-- [Automated data pipelines](https://github.com/SalaamRasak/Custom_Food_Ordering)   
+- [Automated data pipelines](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
 - **AI-powered** [workflow automation](https://github.com/SalaamRasak/AI_Automation_Workflow) using Make.com, Telegram Bot, Google API, and Gmail.
 - [Real-time dashboards](https://github.com/SalaamRasak/Sales_TV_Data)
 - [Market Analysis](https://github.com/SalaamRasak/marketAnalysis) using Python and Stata.
