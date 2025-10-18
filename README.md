@@ -17,7 +17,7 @@ By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks
 
 ---
 ## 🚀 Projects & Portfolio  
-I’ve built projects ranging from:  
+These are some of my projects:  
 - [**WordPress News Website Automation**](https://github.com/SalaamRasak/News_Workflow): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
   
 - [**Automated data pipelines**](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
