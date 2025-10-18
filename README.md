@@ -1,6 +1,6 @@
 # 👋 Hi! Welcome to Salaam's Hub.
 ### About Me
-Glad you're here — it's a sign that **Salaam Solutions** will be useful for your business and personal needs. I am a **Certified, hands-on Data Analyst and AI Automation Engineer** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that help businesses and organizations scale, improve decision-making, and unlock growth opportunities. 
+Glad you're here — it's a sign that **Salaam Solutions** will be useful for your business and personal needs. I am a **certified, hands-on Data Analyst and AI Automation Engineer** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that help businesses and organizations scale, improve decision-making, and unlock growth opportunities. 
 
 - 🌍 **Location:** UTC+1
 - 📧 **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
@@ -18,7 +18,10 @@ By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks
 ---
 ## 🚀 Projects & Portfolio  
 I’ve built projects ranging from:  
-- [Automated data pipelines](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
+- [**WordPress News Website Automation**](https://github.com/SalaamRasak/News_Workflow): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
+  
+- [**Automated data pipelines**](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
+  
 - **AI-powered** [workflow automation](https://github.com/SalaamRasak/AI_Automation_Workflow) using Make.com, Telegram Bot, Google API, and Gmail.
 - [Real-time dashboards](https://github.com/SalaamRasak/Sales_TV_Data)
 - [Market Analysis](https://github.com/SalaamRasak/marketAnalysis) using Python and Stata.
