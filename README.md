@@ -38,10 +38,10 @@ This academic rigour complements my technical expertise, which ensures that my s
 ---
 ## 🎓 Certifications  
 - Google Data Analytics Professional Certificate | issued by [**Google**](https://www.credly.com/badges/f5050af5-125b-4e22-8337-016316cdefdf)
-- IBM Python With Data Analysis [**IBM**](https://www.credly.com/badges/d84e93ed-8752-404c-8161-9391caa19289)
-- Data Analytics Essentials [**Cisco**](https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89)  
-- Make.com Advanced Certificate in AI Automation [**Make.com**](https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe)  
-- Fundamentals of Artificial Intelligence (AI)[**IBM**](https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7)
+- IBM Python With Data Analysis | issued by [**IBM**](https://www.credly.com/badges/d84e93ed-8752-404c-8161-9391caa19289)
+- Data Analytics Essentials | issued by [**Cisco**](https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89)  
+- Make.com Advanced Certificate in AI Automation | issued by [**Make.com**](https://www.credly.com/badges/9e09203a-824c-4c1d-9458-632cc90ccdfe)  
+- Fundamentals of Artificial Intelligence (AI) |  [**IBM**](https://www.credly.com/badges/784d5a2c-2f7b-4dfb-932b-da800db573f7)
 - Tableau Analyst Certification  
 
 ---
