@@ -22,7 +22,8 @@ These are some of my projects:
   
 - [**Automated data pipelines**](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
   
-- [**Food Restaurant Automated Workflow**](https://github.com/SalaamRasak/AI_Automation_Workflow): This workflow uses a custom form built using HTML5, CSS3, and JavaScript to get food order from customers. Then webhook trigger receives and acknowledges the order, saving it in Google spreadsheet. Then filtered in Make.com based on conditions to either Telegram or WhatsApp, and forward notification to Gmail.
+- [**Food Restaurant Automated Workflow**](https://github.com/SalaamRasak/AI_Automation_Workflow): This automated workflow streamlines food order processing. It begins with a custom-built form utilizing HTML5, CSS3, and JavaScript to capture customer orders. Upon submission, a webhook triggers the system, acknowledging the order and saving it to a Google Spreadsheet. Using Make.com, the data is filtered based on specific conditions, sending notifications to either Telegram or WhatsApp. Finally, a notification is forwarded to Gmail for further action.
+  
 - [Real-time dashboards](https://github.com/SalaamRasak/Sales_TV_Data)
 - [Market Analysis](https://github.com/SalaamRasak/marketAnalysis) using Python and Stata.
 - **And Many More...**
