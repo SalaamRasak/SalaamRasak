@@ -1,6 +1,6 @@
 # 👋 Hi! Welcome to Salaam's Hub.
 ### About Me
-Glad you're here — it's a sign that **Salaam Solutions** will be useful for your business and personal needs. I am a **certified, hands-on Data Analyst and AI Automation Engineer** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that help businesses and organizations scale, improve decision-making, and unlock growth opportunities. 
+Glad you're here — it's a sign that **Salaam Solutions** will be useful for your business and personal needs. My name is Salaam Rasak Ola, a **certified, hands-on Data Analyst and AI Automation Engineer** with 3+ years of experience, transforming raw datasets into intelligent systems that power smarter decisions. My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that help businesses and organizations scale, improve decision-making, and unlock growth opportunities. 
 
 - 🌍 **Location:** UTC+1
 - 📧 **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
