@@ -8,13 +8,13 @@ Glad you're here — it's a sign that **Salaam Solutions** will be useful for yo
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rasak-olanrewaju-salaam-501b69120/](https://www.linkedin.com/in/rasak-olanrewaju-salaam-501b69120/)
 ---
 
-## 📊 Data Analysis & AI Automation Prowess  
-With strong experience in **data wrangling, exploratory analysis, and AI-driven workflow automation**, I have delivered measurable results:  
-- ⏱️ Reduced reporting time by **40%** through automated dashboards  
-- 📈 Improved decision accuracy by **25%** with predictive insights  
-- ⚡ Saved **hundreds of hours** by automating repetitive manual processes  
-By combining **Python, R, SQL, Microsoft Excel** with **AI automation frameworks**, I ensure insights are not only discovered but also deployed seamlessly.  
-
+## 📊 Data Analysis & AI Automation Engineering Expertise
+With extensive experience in **data wrangling, exploratory analysis, and AI-driven automation**, I specialize in leveraging platforms like **Make.com**, **n8n**, **Zapier**, and **LLM applications** to streamline workflows and deliver actionable insights:
+* ⏱️ Reduced reporting time by **40%** through end-to-end automated workflows and dashboards.
+* 📈 Enhanced decision-making accuracy by **25%** using predictive models and AI insights.
+* ⚡ Saved **hundreds of hours** by automating complex manual processes and integrating systems seamlessly.
+  By combining **Python, R, SQL**, and AI automation tools such as Make.com, n8n, and Zapier, I ensure that data not only drives insights but is also seamlessly integrated into operational workflows for continuous optimization.
+ 
 ---
 ## 🚀 Projects & Portfolio  
 These are some of my projects:  
