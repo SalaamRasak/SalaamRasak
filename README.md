@@ -18,8 +18,8 @@ With extensive experience in **data wrangling, exploratory analysis, and AI-driv
 ---
 ## 🚀 Projects & Portfolio  
 These are some of my projects:  
-- [** n8n WordPress News Website Automation**](https://github.com/SalaamRasak/News_Workflow): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
-- 
+- [**n8n WordPress News Website Automation**](https://github.com/SalaamRasak/News_Workflow): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
+  
 - [**Make.com Food Restaurant Automated Workflow**](https://github.com/SalaamRasak/AI_Automation_Workflow): This automated workflow streamlines food order processing. It begins with a custom-built form utilizing HTML5, CSS3, and JavaScript to capture customer orders. Upon submission, a webhook triggers the system, acknowledging the order and saving it to a Google Spreadsheet. Using Make.com, the data is filtered based on specific conditions, sending notifications to either Telegram or WhatsApp. Finally, a notification is forwarded to Gmail for further action.
   
 - [**Automated Custom form for data pipelines**](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
