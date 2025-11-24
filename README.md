@@ -35,7 +35,7 @@ These are some of my projects:
 ## 📚 Research & Thought Leadership  
 Backed by a **Bachelor’s and Master’s degree in Political Science (with distinction)** from Obafemi Awolowo University, my work bridges social science insights with computational analytics.  
 - ✍️ I’ve authored research on **governance, elections, business decision-making, and coding**  
-- 🔎Published in reputable journals and indexed on [Google Scholar](https://scholar.google.com/citations?user=dqkKM6wAAAAJ&hl=en) and [Medium](https://medium.com/@rasaksalaamo)  
+- 🔎Published in reputable journals and indexed on **[Google Scholar]**(https://scholar.google.com/citations?user=dqkKM6wAAAAJ&hl=en) and [Medium](https://medium.com/@rasaksalaamo)  
 This academic rigour complements my technical expertise, which ensures that my solutions are grounded in both **theory and practice**.  
 
 ---
