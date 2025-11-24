@@ -18,7 +18,7 @@ With extensive experience in **data wrangling, exploratory analysis, and AI-driv
 ---
 ## 🚀 Projects & Portfolio  
 These are some of my projects:  
-- [**Data Job Market**](https://github.com/SalaamRasak/DataJobMarket): This data analysis project deploys the Python programming language and its libraries, which include Pandas, Numpy, Matplotlib, and Seaborn, to extract authoritative insights about jobs in data analysis, data science, and data engineering in the United States. Key insights were plotted using Seaborn and Matplotlib, which will be useful to job seekers
+- [**Data Job Market**](https://github.com/SalaamRasak/DataJobMarket): This data analysis project deploys the Python programming language and its libraries, which include Pandas, Numpy, Matplotlib, and Seaborn, to extract authoritative insights about jobs in data analysis, data science, and data engineering in the United States. Key insights were plotted using Seaborn and Matplotlib, which will be useful to job seekers.
   
 - [**n8n WordPress News Website Automation**](https://github.com/SalaamRasak/News_Workflow): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
   
