@@ -83,7 +83,7 @@ This academic rigour complements my technical expertise, which ensures that my s
 
 ---
 - ### 📫 Get in Touch
-Let's discuss how we can collaborate on exciting projects or simply have a chat about the latest in tech. Feel free to reach out to me through any of the following:
+Let's discuss how we can collaborate on exciting projects or simply have a chat about the latest in tech. Feel free to reach out to me via any of the following mediums:
 - **Email:** [rasaksalaama@gmail.com](mailto:rasaksalaama@gmail.com)
 - [📞 Call](tel:+2348163157843) | [WhatsApp](https://wa.me/2348163157843)
 
