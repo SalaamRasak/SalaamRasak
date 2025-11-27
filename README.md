@@ -26,7 +26,7 @@ These are some of my projects:
   
 - [**Automated Custom form for data pipelines**](https://github.com/SalaamRasak/Custom_Food_Ordering), which was built using HTML5, CSS3, JavaScript and integrated with Webhook for data collection and real-time response.
   
-- [Real-time dashboards](https://github.com
+- [Real-time dashboards
 - [Market Analysis](https://github.com/SalaamRasak/marketAnalysis) using Python and Stata.
 - **And Many More...**
 
