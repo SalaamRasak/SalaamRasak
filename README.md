@@ -1,4 +1,4 @@
-# 👋 Welcome to Salaam Research & Tech Consultancy Services
+## 👋 Welcome to Salaam Research & Tech Consultancy Services
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Researcher+%7C+Data+Analyst+%7C+Software+Developer;Bridging+Research%2C+Data+%26+Technology;Turning+Ideas+into+Practical+Solutions)
 
 I am **Salaam Rasak Olanrewaju**, aptly called "Ola", a meticulous researcher, data analyst, and software developer passionate about transforming complex ideas, raw data, and technological possibilities into meaningful insights and practical solutions.
