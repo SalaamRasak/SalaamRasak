@@ -15,7 +15,7 @@ I hold bachelor's and master's degrees in Political Science from **Obafemi Awolo
 
 My academic and professional interests extend beyond conventional political science into computational research, business intelligence, technology, and digital innovation.
 
-I approach research and technology as complementary disciplines: research helps us understand problems, data helps us uncover patterns, and software helps us build scalable solutions.
+I approach research and technology as complementary disciplines. While research helps us understand problems, data helps us uncover patterns, and software helps us build scalable solutions.
 
 ---
 
@@ -34,7 +34,6 @@ I have a strong foundation in academic research, scholarly writing, research des
 I have authored and published scholarly research in academic journals. My Google Scholar profile provides access to my publications and citation record.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications%20%26%20Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dqkKM6wAAAAJ&hl=en)
-[![Medium](https://img.shields.io/badge/Medium-Articles%20%26%20Thought%20Leadership-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rasaksalaamo)
 
 ---
 
@@ -52,7 +51,7 @@ I transform raw datasets into structured information, actionable insights, and c
 - Data-driven research and analytical storytelling.
 - Data integration, ETL processes, and workflow optimisation.
 
-My analytical toolkit includes Python, R, SQL, Stata, Microsoft Excel, Pandas, NumPy, Power BI, Tableau, Looker Studio, Matplotlib, and Seaborn.
+My analytical toolkit includes Python, R, SQL, Microsoft Excel, Pandas, NumPy, Power BI, Tableau, Looker Studio, Matplotlib, and Seaborn.
 
 ---
 
@@ -108,6 +107,8 @@ A custom-built web form developed with HTML5, CSS3, and JavaScript and integrate
 
 I continuously invest in developing my analytical, programming, and automation skills through professional training and certifications.
 
+- [Qualitative Research Methods](https://www.coursera.org/account/accomplishments/verify/YTB4FTKIC13U) | University of Amsterdam, Coursera (2026)
+- [Quantitative Methods](https://www.coursera.org/account/accomplishments/verify/8XECRVE9V2JH) | University of Amsterdam, Coursera (2026)
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/f5050af5-125b-4e22-8337-016316cdefdf) | Google
 - [Python with Data Analysis](https://www.credly.com/badges/d84e93ed-8752-404c-8161-9391caa19289) | IBM
 - [Data Analytics Essentials](https://www.credly.com/badges/ad4f9f54-f10a-4279-85ce-78617d03bc89) | Cisco
@@ -124,12 +125,10 @@ I continuously invest in developing my analytical, programming, and automation s
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 📈 Data Visualisation & Business Intelligence
 
@@ -168,16 +167,6 @@ I continuously invest in developing my analytical, programming, and automation s
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-276DC3?style=for-the-badge)
 ![Research Methodology](https://img.shields.io/badge/Research_Methodology-2E8B57?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SalaamRasak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalaamRasak&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Contribution Streak](https://streak-stats.demolab.com/?user=SalaamRasak&theme=tokyonight&hide_border=true)
 
 ---
 
